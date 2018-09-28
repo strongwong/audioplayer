@@ -55,7 +55,7 @@ OC.L10N.register(
 	"Select from cloud" : "由云端选择",
 	"Edit" : "编辑",
 	"Delete" : "刪除",
-	"Settings" : "选项",
+	"Settings" : "设置",
 	"Select a single folder with audio files" : "选取一个含有音频的文件夹",
 	"Invalid path!" : "无效的路径！",
 	"saved" : "已保存",
